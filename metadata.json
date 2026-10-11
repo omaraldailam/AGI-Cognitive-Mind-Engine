@@ -1,0 +1,6 @@
+{
+  "name": "AGI Cognitive Mind Engine",
+  "description": "Biological and mathematical cognitive mind simulation featuring multi-layer connectome, Hebbian plasticity, neurotransmitter dynamics, episodic memory, and autonomous neurogenesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

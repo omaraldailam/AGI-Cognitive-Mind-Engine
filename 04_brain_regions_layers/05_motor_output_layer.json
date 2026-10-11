@@ -1,0 +1,12 @@
+{
+  "layer_name": "Motor Output Layer",
+  "layer_name_ar": "القشرة الحركية وتكوين الاستجابة",
+  "actuation_channels": [
+    "Broca area syntactic and natural language synthesis",
+    "Premotor strategic workflow and action planning",
+    "Primary motor efference copy validation signal dispatch"
+  ],
+  "primary_neurotransmitter": "acetylcholine_and_dopamine",
+  "processing_latency_ms": 6.1,
+  "nodes_count": 3
+}

@@ -1,0 +1,14 @@
+{
+  "dopamine": 0.65,
+  "serotonin": 0.58,
+  "acetylcholine": 0.72,
+  "norepinephrine": 0.50,
+  "gaba": 0.45,
+  "glutamate": 0.68,
+  "flux_rates": {
+    "dopamine_surge_per_reward": 0.08,
+    "gaba_surge_per_inhibition": 0.07,
+    "ach_burn_rate_per_cycle": 0.015,
+    "serotonin_recovery_half_life_ms": 3000
+  }
+}

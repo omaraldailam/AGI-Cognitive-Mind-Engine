@@ -1,0 +1,9 @@
+{
+  "vocabulary_size": 240,
+  "dynamic_tokens": [
+    { "token": "hebbian_wire", "tokenAr": "الترابط الهيبي", "occurrences": 48, "vector_norm": 1.0 },
+    { "token": "recurrent_loop", "tokenAr": "حلقة راجعة", "occurrences": 32, "vector_norm": 1.0 },
+    { "token": "gaba_inhibition", "tokenAr": "كبح جابا", "occurrences": 29, "vector_norm": 1.0 },
+    { "token": "working_memory", "tokenAr": "الذاكرة العاملة", "occurrences": 64, "vector_norm": 1.0 }
+  ]
+}

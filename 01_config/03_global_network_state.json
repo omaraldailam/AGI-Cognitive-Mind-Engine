@@ -1,0 +1,12 @@
+{
+  "mode": "ACTIVE_INFERENCE",
+  "operational_status": "ONLINE_HEALTHY",
+  "cycles_count": 1420,
+  "entropy": 0.32,
+  "global_arousal": 0.54,
+  "consciousness_index": 0.81,
+  "synchrony_phase_rad": 1.57,
+  "active_regions_count": 5,
+  "pending_genesis_nodes": 1,
+  "last_backup_timestamp": "2026-10-10T17:34:00Z"
+}

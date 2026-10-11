@@ -1,0 +1,13 @@
+{
+  "layer_name": "Prefrontal Logic Layer",
+  "layer_name_ar": "القشرة الجبهية ومنطق اتخاذ القرار",
+  "executive_functions": [
+    "Dorsolateral working memory hypothesis maintenance",
+    "Ventromedial value and ethical constraint arbitration",
+    "Orbitofrontal GABAergic inhibitory noise filtering",
+    "Frontopolar BA10 metacognitive self-audit"
+  ],
+  "primary_neurotransmitter": "glutamate_and_gaba",
+  "processing_latency_ms": 11.2,
+  "nodes_count": 4
+}

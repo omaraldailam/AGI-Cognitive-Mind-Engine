@@ -1,0 +1,13 @@
+{
+  "learning_rate": 0.05,
+  "momentum": 0.9,
+  "hebbian_learning_rate": 0.045,
+  "homeostatic_decay_rate": 0.002,
+  "synaptic_pruning_threshold": 0.08,
+  "cosine_similarity_threshold": 0.65,
+  "membrane_potential_decay": 0.05,
+  "refractory_period_ms": 20,
+  "max_working_memory_items": 7,
+  "max_synaptic_conductance": 1.0,
+  "min_synaptic_conductance": -1.0
+}

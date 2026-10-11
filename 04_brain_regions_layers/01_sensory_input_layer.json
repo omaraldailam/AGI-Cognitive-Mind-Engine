@@ -1,0 +1,9 @@
+{
+  "layer_name": "Sensory Input Layer",
+  "layer_name_ar": "القشرة الحسية وتفكيك الرموز",
+  "anatomical_hubs": ["Superior Temporal Gyrus", "V1 Visual Complex", "A1 Auditory Field", "Temporoparietal Buffer"],
+  "primary_neurotransmitter": "glutamate",
+  "receptive_modalities": ["text", "lexical_tokens", "sensory_contrast"],
+  "processing_latency_ms": 3.2,
+  "nodes_count": 3
+}

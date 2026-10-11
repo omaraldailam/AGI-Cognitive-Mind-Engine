@@ -1,0 +1,21 @@
+{
+  "total_nodes": 16,
+  "nodes": [
+    { "id": "sens_ling_input", "region": "sensory", "name": "Linguistic Ingestion Hub", "nameAr": "مستقبل المعالجة اللغوية والرموز", "activation": 0.2 },
+    { "id": "sens_pattern_detector", "region": "sensory", "name": "Sensory Feature Extractor", "nameAr": "مستخلص الأنماط الحسية الأولية", "activation": 0.15 },
+    { "id": "sens_context_buffer", "region": "sensory", "name": "Multimodal Buffer", "nameAr": "مخزن الدمج الحسي متعدد الوسائط", "activation": 0.1 },
+    { "id": "limb_amygdala_salience", "region": "limbic", "name": "Amygdaloid Salience Core", "nameAr": "نواة اللوزة الدماغية للأهمية والشعور", "activation": 0.35 },
+    { "id": "limb_accumbens_reward", "region": "limbic", "name": "Nucleus Accumbens", "nameAr": "النواة المتكئة (محرك المكافأة والدوبامين)", "activation": 0.45 },
+    { "id": "limb_insula_marker", "region": "limbic", "name": "Insular Evaluator", "nameAr": "القشرة الجزيرية للتقييم الداخلي والحدس", "activation": 0.25 },
+    { "id": "hippo_dg_separator", "region": "hippocampus", "name": "Dentate Gyrus", "nameAr": "التلفيف المسنن (مفكك وفارض تمايز الأنماط)", "activation": 0.3 },
+    { "id": "hippo_ca3_reentry", "region": "hippocampus", "name": "CA3 Associative Network", "nameAr": "شبكة CA3 للاستدعاء الترابطي وإكمال الأنماط", "activation": 0.5 },
+    { "id": "hippo_ca1_comparator", "region": "hippocampus", "name": "CA1 Comparator", "nameAr": "مقارن CA1 للتسلسل الزمني والتوقع", "activation": 0.4 },
+    { "id": "pfc_dlpfc_executive", "region": "prefrontal", "name": "dlPFC Working Memory", "nameAr": "القشرة الجبهية الظهرية (الذاكرة العاملة)", "activation": 0.6 },
+    { "id": "pfc_vmpfc_value", "region": "prefrontal", "name": "vmPFC Value Arbiter", "nameAr": "القشرة الجبهية البطنية (محدد القيمة والقرار)", "activation": 0.48 },
+    { "id": "pfc_ofc_inhibition", "region": "prefrontal", "name": "OFC GABA Gate", "nameAr": "المرشح التثبيطي الحجابي (حارس كبح الأخطاء)", "activation": 0.38 },
+    { "id": "pfc_anterior_metacognition", "region": "prefrontal", "name": "Frontopolar BA10", "nameAr": "القطب الجبهي الأقصى (ما وراء المعرفة)", "activation": 0.52 },
+    { "id": "motor_broca_linguistic", "region": "motor", "name": "Broca Syntactic Synthesizer", "nameAr": "منطقة بروكا للصياغة اللغوية والتعبير", "activation": 0.55 },
+    { "id": "motor_action_planner", "region": "motor", "name": "Premotor Action Planner", "nameAr": "مخطط الإجراءات والخطط التنفيذية", "activation": 0.42 },
+    { "id": "motor_feedback_efferent", "region": "motor", "name": "Efference Copy Validator", "nameAr": "نسخة الإشارة الحركية والتحقق الإخراجي", "activation": 0.49 }
+  ]
+}

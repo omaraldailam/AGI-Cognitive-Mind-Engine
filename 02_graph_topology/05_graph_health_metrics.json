@@ -1,0 +1,9 @@
+{
+  "small_world_index": 2.84,
+  "clustering_coefficient": 0.61,
+  "average_path_length": 2.14,
+  "network_density": 0.38,
+  "modularity_score": 0.72,
+  "spectral_radius": 1.48,
+  "isolated_nodes_count": 0
+}

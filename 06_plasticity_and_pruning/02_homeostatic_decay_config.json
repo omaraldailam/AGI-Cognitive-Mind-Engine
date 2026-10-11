@@ -1,0 +1,7 @@
+{
+  "formula": "w(t + delta_t) = w(t) * exp(-lambda * delta_t)",
+  "lambda_decay_rate": 0.002,
+  "check_interval_ticks": 50,
+  "dormant_tick_threshold": 200,
+  "protection_for_high_strength": true
+}

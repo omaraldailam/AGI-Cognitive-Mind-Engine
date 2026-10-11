@@ -1,0 +1,24 @@
+{
+  "buffer_capacity": 10,
+  "current_traces_count": 2,
+  "traces": [
+    {
+      "id": "ep_1",
+      "timestamp": 1728587400,
+      "prompt": "Analyze dopamine impact on synaptic learning rate",
+      "response": "Dopamine release accelerates Hebbian weight reinforcement.",
+      "salience": 0.88,
+      "valence": 0.75,
+      "consolidated": true
+    },
+    {
+      "id": "ep_2",
+      "timestamp": 1728588000,
+      "prompt": "How does GABA prevent cognitive hallucinations?",
+      "response": "GABA hyperpolarizes membranes to act as an inhibitory noise brake.",
+      "salience": 0.82,
+      "valence": 0.40,
+      "consolidated": false
+    }
+  ]
+}

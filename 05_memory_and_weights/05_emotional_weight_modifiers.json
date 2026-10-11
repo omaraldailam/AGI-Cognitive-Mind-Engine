@@ -1,0 +1,9 @@
+{
+  "valence_multipliers": {
+    "positive_insight": 1.25,
+    "neutral_equilibrium": 1.0,
+    "negative_stress": 0.75
+  },
+  "arousal_gain_factor": 1.4,
+  "dopaminergic_ltp_boost": 1.35
+}

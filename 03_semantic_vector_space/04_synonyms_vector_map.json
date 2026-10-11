@@ -1,0 +1,7 @@
+{
+  "clusters": [
+    { "root": "cognition", "rootAr": "إدراك", "synonyms": ["awareness", "perception", "mind", "وعي", "معرفة", "بصيرة"] },
+    { "root": "synapse", "rootAr": "مشبك", "synonyms": ["connection", "axon", "dendrite", "link", "توصيل", "عصبون", "رابط"] },
+    { "root": "plasticity", "rootAr": "لدونة", "synonyms": ["adaptation", "learning", "flexibility", "growth", "تكيف", "مرونة", "تطور"] }
+  ]
+}

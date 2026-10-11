@@ -1,0 +1,33 @@
+{
+  "total_pairs": 4,
+  "pairs": [
+    {
+      "id": "qa_1",
+      "question": "How do neurons adjust synaptic strength through co-activation?",
+      "questionAr": "كيف تعدل العصبونات قوة مشابكها العصبية عبر التنشيط المتزامن؟",
+      "expected_concept": "Hebbian Synaptic Plasticity",
+      "accuracy": 0.96
+    },
+    {
+      "id": "qa_2",
+      "question": "Which neurotransmitter is primarily responsible for inhibitory control?",
+      "questionAr": "ما هو الناقل العصبي المسؤول عن الكبح التثبيطي وترشيح الهلوسة؟",
+      "expected_concept": "GABA (Gamma-Aminobutyric Acid)",
+      "accuracy": 0.98
+    },
+    {
+      "id": "qa_3",
+      "question": "How does the brain separate overlapping memories into distinct representations?",
+      "questionAr": "كيف يفصل الدماغ الذكريات المتداخلة إلى تمثيلات متباينة؟",
+      "expected_concept": "Dentate Gyrus Pattern Separation",
+      "accuracy": 0.92
+    },
+    {
+      "id": "qa_4",
+      "question": "What mechanism transfers transient episodic experiences into durable semantic schemas?",
+      "questionAr": "ما هي الآلية التي تنقل التجارب العرضية العابرة إلى مخططات دلالية؟",
+      "expected_concept": "Hippocampal Memory Consolidation",
+      "accuracy": 0.94
+    }
+  ]
+}

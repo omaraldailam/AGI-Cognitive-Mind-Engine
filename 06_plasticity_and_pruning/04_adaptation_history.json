@@ -1,0 +1,9 @@
+{
+  "adaptation_epochs": 14,
+  "milestones": [
+    { "epoch": 1, "mean_weight": 0.45, "conductance_efficiency": 0.62 },
+    { "epoch": 5, "mean_weight": 0.58, "conductance_efficiency": 0.74 },
+    { "epoch": 10, "mean_weight": 0.64, "conductance_efficiency": 0.83 },
+    { "epoch": 14, "mean_weight": 0.67, "conductance_efficiency": 0.89 }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "functions": {
+    "relu": {
+      "formula": "f(x) = max(0, x)",
+      "threshold": 0.2,
+      "biological_role": "Unidirectional axon firing action potential",
+      "biological_role_ar": "جهد الفعل المحوري أحادي الاتجاه"
+    },
+    "leaky_relu": {
+      "formula": "f(x) = x >= 0 ? x : 0.01 * x",
+      "threshold": 0.15,
+      "biological_role": "Basal sub-threshold spontaneous dendritic leak",
+      "biological_role_ar": "تسريب الشجيرات العصبية التلقائي دون العتبة"
+    },
+    "tanh": {
+      "formula": "f(x) = tanh(x)",
+      "threshold": 0.3,
+      "biological_role": "Bipolar affective valence representation [-1, 1]",
+      "biological_role_ar": "تمثيل التكافؤ العاطفي ثنائي القطب [-1, 1]"
+    },
+    "sigmoid": {
+      "formula": "f(x) = 1 / (1 + exp(-x))",
+      "threshold": 0.25,
+      "biological_role": "Gated probability and neurotransmitter vesicle release",
+      "biological_role_ar": "احتمالية إفراز الحويصلات المشبكية"
+    },
+    "gelu": {
+      "formula": "f(x) = x * P(X <= x)",
+      "threshold": 0.35,
+      "biological_role": "Stochastic cognitive gating under cortical uncertainty",
+      "biological_role_ar": "البوابة الإدراكية الاحتمالية في ظل عدم اليقين"
+    }
+  }
+}

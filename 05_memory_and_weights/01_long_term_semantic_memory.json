@@ -1,0 +1,47 @@
+{
+  "total_records": 6,
+  "schemas": [
+    {
+      "id": "mem_hebbian",
+      "concept": "Hebbian Synaptic Plasticity",
+      "conceptAr": "اللدونة المشبكية الهيبية (قانون هيب)",
+      "strength": 0.96,
+      "access_count": 142
+    },
+    {
+      "id": "mem_connectome",
+      "concept": "Connectome Topology & Small-World Architecture",
+      "conceptAr": "طوبولوجيا الكونيكتوم والشبكة ذات العالم الصغير",
+      "strength": 0.92,
+      "access_count": 98
+    },
+    {
+      "id": "mem_neurotransmitters",
+      "concept": "Neurochemical Neuromodulation Dynamics",
+      "conceptAr": "ديناميكا النواقل العصبية والتعديل الكيميائي",
+      "strength": 0.95,
+      "access_count": 120
+    },
+    {
+      "id": "mem_metacognition",
+      "concept": "Frontopolar Metacognition & Self-Correction",
+      "conceptAr": "ما وراء المعرفة القطبية الجبهية والمراقبة الذاتية",
+      "strength": 0.89,
+      "access_count": 84
+    },
+    {
+      "id": "mem_episodic_consolidation",
+      "concept": "Hippocampal Episodic-to-Semantic Consolidation",
+      "conceptAr": "تثبيت الذاكرة العرضية إلى دلالية في الحصين",
+      "strength": 0.91,
+      "access_count": 110
+    },
+    {
+      "id": "mem_ethics_alignment",
+      "concept": "Cognitive Alignment & Value Anchoring",
+      "conceptAr": "المحاذاة الإدراكية وترسيخ القيم الأخلاقية",
+      "strength": 0.94,
+      "access_count": 76
+    }
+  ]
+}

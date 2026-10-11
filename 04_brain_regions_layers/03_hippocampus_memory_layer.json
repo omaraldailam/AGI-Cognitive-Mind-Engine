@@ -1,0 +1,12 @@
+{
+  "layer_name": "Hippocampus Memory Layer",
+  "layer_name_ar": "الحصين والمسح الدلالي للذاكرة",
+  "sub_circuits": {
+    "dentate_gyrus": "Orthogonal pattern separation and noise decorrelation",
+    "ca3": "Recurrent auto-associative memory pattern completion",
+    "ca1": "Temporal reality discrepancy checking and consolidation trigger"
+  },
+  "primary_neurotransmitter": "acetylcholine",
+  "processing_latency_ms": 7.4,
+  "nodes_count": 3
+}

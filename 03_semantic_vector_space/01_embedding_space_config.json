@@ -1,0 +1,9 @@
+{
+  "dimensions": 16,
+  "metric": "cosine",
+  "normalization": "L2_unit_sphere",
+  "similarity_threshold": 0.65,
+  "embedding_engine": "SemanticNeuralEngine-v2",
+  "supports_bilingual": true,
+  "languages": ["ar", "en"]
+}

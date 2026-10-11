@@ -1,0 +1,26 @@
+{
+  "total_synapses": 21,
+  "edges": [
+    { "id": "e1", "source": "sens_ling_input", "target": "limb_amygdala_salience", "weight": 0.68, "modulator": "glutamate" },
+    { "id": "e2", "source": "sens_pattern_detector", "target": "limb_amygdala_salience", "weight": 0.55, "modulator": "glutamate" },
+    { "id": "e3", "source": "sens_context_buffer", "target": "limb_accumbens_reward", "weight": 0.45, "modulator": "dopamine" },
+    { "id": "e4", "source": "sens_ling_input", "target": "hippo_dg_separator", "weight": 0.74, "modulator": "acetylcholine" },
+    { "id": "e5", "source": "sens_context_buffer", "target": "hippo_ca3_reentry", "weight": 0.62, "modulator": "glutamate" },
+    { "id": "e6", "source": "limb_amygdala_salience", "target": "hippo_ca3_reentry", "weight": 0.71, "modulator": "norepinephrine" },
+    { "id": "e7", "source": "limb_accumbens_reward", "target": "hippo_ca1_comparator", "weight": 0.65, "modulator": "dopamine" },
+    { "id": "e8", "source": "hippo_dg_separator", "target": "hippo_ca3_reentry", "weight": 0.82, "modulator": "glutamate" },
+    { "id": "e9", "source": "hippo_ca3_reentry", "target": "hippo_ca1_comparator", "weight": 0.78, "modulator": "acetylcholine" },
+    { "id": "e10", "source": "hippo_ca3_reentry", "target": "pfc_dlpfc_executive", "weight": 0.85, "modulator": "glutamate" },
+    { "id": "e11", "source": "hippo_ca1_comparator", "target": "pfc_vmpfc_value", "weight": 0.67, "modulator": "serotonin" },
+    { "id": "e12", "source": "limb_amygdala_salience", "target": "pfc_vmpfc_value", "weight": 0.58, "modulator": "serotonin" },
+    { "id": "e13", "source": "limb_accumbens_reward", "target": "pfc_dlpfc_executive", "weight": 0.72, "modulator": "dopamine" },
+    { "id": "e14", "source": "limb_insula_marker", "target": "pfc_ofc_inhibition", "weight": 0.51, "modulator": "gaba" },
+    { "id": "e15", "source": "pfc_dlpfc_executive", "target": "pfc_vmpfc_value", "weight": 0.75, "modulator": "glutamate" },
+    { "id": "e16", "source": "pfc_vmpfc_value", "target": "pfc_ofc_inhibition", "weight": 0.63, "modulator": "gaba" },
+    { "id": "e17", "source": "pfc_dlpfc_executive", "target": "pfc_anterior_metacognition", "weight": 0.81, "modulator": "acetylcholine" },
+    { "id": "e18", "source": "pfc_ofc_inhibition", "target": "pfc_dlpfc_executive", "weight": -0.42, "modulator": "gaba" },
+    { "id": "e19", "source": "pfc_dlpfc_executive", "target": "motor_broca_linguistic", "weight": 0.88, "modulator": "glutamate" },
+    { "id": "e20", "source": "pfc_vmpfc_value", "target": "motor_action_planner", "weight": 0.79, "modulator": "dopamine" },
+    { "id": "e21", "source": "pfc_anterior_metacognition", "target": "motor_feedback_efferent", "weight": 0.76, "modulator": "serotonin" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "layer_name": "Limbic Emotional Layer",
+  "layer_name_ar": "الجهاز الحوفي والتقييم السياقي",
+  "anatomical_hubs": ["Basolateral Amygdala", "Nucleus Accumbens", "Anterior Insula", "Anterior Cingulate"],
+  "primary_neurotransmitter": "dopamine",
+  "affective_dimensions": ["valence", "arousal", "novelty", "homeostatic_balance"],
+  "processing_latency_ms": 4.8,
+  "nodes_count": 3
+}

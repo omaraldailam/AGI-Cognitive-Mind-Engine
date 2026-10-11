@@ -1,0 +1,9 @@
+{
+  "cache_entries_count": 8,
+  "cache": [
+    { "pair": "consciousness:awareness", "pairAr": "وعي:إدراك", "similarity": 0.94, "last_accessed": 1728588000 },
+    { "pair": "plasticity:hebbian", "pairAr": "لدونة:هيبي", "similarity": 0.92, "last_accessed": 1728588100 },
+    { "pair": "inhibition:gaba", "pairAr": "تثبيط:جابا", "similarity": 0.89, "last_accessed": 1728588200 },
+    { "pair": "dopamine:reward", "pairAr": "دوبامين:مكافأة", "similarity": 0.95, "last_accessed": 1728588300 }
+  ]
+}

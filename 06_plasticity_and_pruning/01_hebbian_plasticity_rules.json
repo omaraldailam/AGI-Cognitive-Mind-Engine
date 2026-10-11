@@ -1,0 +1,8 @@
+{
+  "rule": "w_new = clip(w_old + eta * dopamine * a_i * a_j, -1.0, 1.0)",
+  "learning_rate_eta": 0.05,
+  "clamp_range": [-1.0, 1.0],
+  "coactivation_threshold": 0.30,
+  "ltp_threshold": 0.35,
+  "ltd_threshold": 0.15
+}

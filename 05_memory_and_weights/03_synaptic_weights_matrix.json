@@ -1,0 +1,26 @@
+{
+  "matrix_version": "2.4-live",
+  "synaptic_weights": {
+    "sens_ling_input->limb_amygdala_salience": 0.68,
+    "sens_pattern_detector->limb_amygdala_salience": 0.55,
+    "sens_context_buffer->limb_accumbens_reward": 0.45,
+    "sens_ling_input->hippo_dg_separator": 0.74,
+    "sens_context_buffer->hippo_ca3_reentry": 0.62,
+    "limb_amygdala_salience->hippo_ca3_reentry": 0.71,
+    "limb_accumbens_reward->hippo_ca1_comparator": 0.65,
+    "hippo_dg_separator->hippo_ca3_reentry": 0.82,
+    "hippo_ca3_reentry->hippo_ca1_comparator": 0.78,
+    "hippo_ca3_reentry->pfc_dlpfc_executive": 0.85,
+    "hippo_ca1_comparator->pfc_vmpfc_value": 0.67,
+    "limb_amygdala_salience->pfc_vmpfc_value": 0.58,
+    "limb_accumbens_reward->pfc_dlpfc_executive": 0.72,
+    "limb_insula_marker->pfc_ofc_inhibition": 0.51,
+    "pfc_dlpfc_executive->pfc_vmpfc_value": 0.75,
+    "pfc_vmpfc_value->pfc_ofc_inhibition": 0.63,
+    "pfc_dlpfc_executive->pfc_anterior_metacognition": 0.81,
+    "pfc_ofc_inhibition->pfc_dlpfc_executive": -0.42,
+    "pfc_dlpfc_executive->motor_broca_linguistic": 0.88,
+    "pfc_vmpfc_value->motor_action_planner": 0.79,
+    "pfc_anterior_metacognition->motor_feedback_efferent": 0.76
+  }
+}

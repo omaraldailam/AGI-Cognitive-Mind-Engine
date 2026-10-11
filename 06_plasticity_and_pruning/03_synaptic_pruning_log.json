@@ -1,0 +1,21 @@
+{
+  "total_pruned_count": 3,
+  "events": [
+    {
+      "id": "prune_1",
+      "edge": "sens_context_buffer->limb_insula_marker",
+      "weight_before": 0.042,
+      "reason": "Synaptic weight below threshold (< 0.08) and dormant > 200 ticks",
+      "reasonAr": "الوزن المشبكي أدنى من العتبة (< 0.08) وخامل لأكثر من 200 دورة",
+      "timestamp": "2026-10-10T16:00:00Z"
+    },
+    {
+      "id": "prune_2",
+      "edge": "limb_insula_marker->motor_feedback_efferent",
+      "weight_before": 0.031,
+      "reason": "Sub-threshold conductance eliminated to preserve metabolic energy",
+      "reasonAr": "إلغاء التوصيل دون العتبة للحفاظ على الطاقة والحد من التشتت",
+      "timestamp": "2026-10-10T16:45:00Z"
+    }
+  ]
+}

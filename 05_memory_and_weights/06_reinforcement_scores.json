@@ -1,0 +1,6 @@
+{
+  "total_reward_signals": 128,
+  "total_inhibition_signals": 14,
+  "reward_to_penalty_ratio": 9.14,
+  "cumulative_intrinsic_score": 842.5
+}

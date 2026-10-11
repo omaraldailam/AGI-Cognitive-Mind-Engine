@@ -1,0 +1,19 @@
+{
+  "canonical_feedforward_path": [
+    "sens_ling_input",
+    "limb_amygdala_salience",
+    "hippo_ca3_reentry",
+    "pfc_dlpfc_executive",
+    "motor_broca_linguistic"
+  ],
+  "recurrent_feedback_path": [
+    "motor_feedback_efferent",
+    "hippo_ca1_comparator",
+    "pfc_anterior_metacognition"
+  ],
+  "inhibitory_gate_path": [
+    "pfc_vmpfc_value",
+    "pfc_ofc_inhibition",
+    "pfc_dlpfc_executive"
+  ]
+}
